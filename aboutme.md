@@ -4,12 +4,12 @@ title: About me
 subtitle: thanks for visiting 
 ---
 
-My name is Partha Bhattacharya. I am a father at home. Manager at an engineering firm. 
+My name is Partha Bhattacharya.
 
-- I love small coding for solving math/algorithm problems
-- I'm fascinated with visualization and graphics
-- I love maths. Only the fun part
-- I love word games
+- I do small code snippets for solving math/algorithm problems
+- I like to create small sketches with Processing
+- I love maths. Only the fun part not the rigor
+- I spend good amount of time in solving word puzzles
 
 What else do you need?
 
